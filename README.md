@@ -11,7 +11,9 @@ Dockerized React application
 ## Starting the application
 
  Clone this repo using 
-`git clone git@github.com:AnthonyDelaCruz/docker-jsonplaceholder-react.git`
+```
+git clone git@github.com:AnthonyDelaCruz/docker-jsonplaceholder-react.git
+```
 
 ### Running the development server using the docker container
 
